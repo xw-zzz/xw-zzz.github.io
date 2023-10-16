@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b3b6e0a0","path":"/framework/1.mq/03.RocketMq/","title":"03. Rocket Mq","lang":"zh-CN","frontmatter":{"title":"03. Rocket Mq","description":""},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"autoDesc":true}');export{e as data};

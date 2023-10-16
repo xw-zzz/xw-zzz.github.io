@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-271fbe72","path":"/framework/1.mq/01.kafka/","title":"01.kafka","lang":"zh-CN","frontmatter":{"title":"01.kafka","description":""},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"autoDesc":true}');export{e as data};

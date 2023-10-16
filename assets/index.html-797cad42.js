@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1b9d80aa","path":"/maintenance/4.linux/","title":"4.linux","lang":"zh-CN","frontmatter":{"title":"4.linux","description":""},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"autoDesc":true}');export{e as data};
