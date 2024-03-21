@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as o,a as e}from"./app-ef0b4d9d.js";const c={},s=e("div",{style:{"text-align":"center"}},[e("h1",null,"心之所向，素履以往")],-1),_=[s];function r(a,l){return n(),o("div",null,_)}const f=t(c,[["render",r],["__file","index.html.vue"]]);export{f as default};

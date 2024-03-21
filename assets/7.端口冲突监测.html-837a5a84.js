@@ -1,0 +1,4 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as n,b as t}from"./app-ef0b4d9d.js";const i={},s=t(`<h1 id="方法" tabindex="-1"><a class="header-anchor" href="#方法" aria-hidden="true">#</a> 方法</h1><p>执行命令:</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>## eth0 网卡名称
+## 192.168.0.240 需要检测冲突的IP地址
+arping -I  eth0 192.168.0.240
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>如图所示，有两个MAC地址，存在IP冲突</p><p><img src="https://tuchuang-1254256192.cos.ap-nanjing.myqcloud.com/typora/20220720104244.png" alt="" loading="lazy"></p>`,5),c=[s];function r(d,l){return a(),n("div",null,c)}const p=e(i,[["render",r],["__file","7.端口冲突监测.html.vue"]]);export{p as default};
